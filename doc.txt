@@ -1,0 +1,8 @@
+--Sequentialregroupe une pile linéaire de couches en a tf.keras.Model.
+--Les couches entièrement connectées sont définies à l'aide de la classe Dense . 
+Nous pouvons spécifier le nombre de neurones ou de nœuds dans la couche comme premier argument, 
+et spécifier la fonction d'activation à l'aide de l' argument d' activation 
+
+site https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-classification-3a3656c726c1
+
+model.add(keras.layers.BatchNormalization()):: normaliser la valeur d'entrée et la mettre à l' échelle et la décaler .https://www.machinecurve.com/index.php/2020/01/15/how-to-use-batch-normalization-with-keras/
